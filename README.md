@@ -8,6 +8,6 @@
  </head>
  <body>
    <h1>ys专场！</h1>
-   <p> <img src=“C:\Users\86131\Desktop\1.jpg”></p>
+   <p> hi! <img src=“图\1.jpg”> </p>
  </body>
 </html>
